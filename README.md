@@ -3,4 +3,4 @@
 
  Ropositorio criado para ser gerenciado pelo GitHub Desktop ;)
  
- Essa linha eu adicionei diretamente no site do GitHub!!  =_=
+ Essa linha eu adicionei diretamente no site do GitHub  -_-
